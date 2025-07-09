@@ -1,0 +1,113 @@
+Welcome to KBC!
+
+1. Which programming language was used to craete facebook ?
+Question for Rs. 1000
+1.Python   2.HTML
+3.Javascript   4.PHP
+Enter Your Answer 1-4: 2
+The money you are taking home is 0!
+
+2. When is Windows 10 end of support by Microsoft ?
+Question for Rs. 2000
+1.2026 - Nov   2.2025 - June
+3.2025 - oct   4.2034 - May
+Enter Your Answer 1-4: 3
+Correct Answer! You won Rs. 2000
+
+3. Which one is not a web browser ?
+Question for Rs. 3000
+1.Chrome   2.Linux
+3.Firefox   4.Safari
+Enter Your Answer 1-4: 2
+Correct Answer! You won Rs. 3000
+
+4. What is HTTP used for ?
+Question for Rs. 4000
+1.Email   2.gaming
+3.Coding   4.Browsing
+Enter Your Answer 1-4: 4
+Correct Answer! You won Rs. 4000
+
+5. Which is a social media platform ?
+Question for Rs. 5000
+1.Facebook   2.Python
+3.ChatGPT   4.Excel
+Enter Your Answer 1-4: 1
+Correct Answer! You won Rs. 5000
+
+6. Which comapany owns Youtube ?
+Question for Rs. 10000
+1.Meta   2.Apple
+3.google   4.Microsoft
+Enter Your Answer 1-4: 2
+The money you are taking home is 1000!
+
+7. WHat does VPN protects ?
+Question for Rs. 20000
+1.Ads   2.Privacy
+3.Speed   4.Viruses
+Enter Your Answer 1-4: 4
+The money you are taking home is 1000!
+
+8. which is a search engine ?
+Question for Rs. 40000
+1.Bing   2.Whatsapp
+3.Photoshop   4.Discord
+Enter Your Answer 1-4: 1
+Correct Answer! You won Rs. 40000
+
+9. What does a firewall do ?
+Question for Rs. 80000
+1.Boost speed   2.Delete files
+3.Block Access   4.Open sites
+Enter Your Answer 1-4: 3
+Correct Answer! You won Rs. 80000
+
+10. what is 'WWW' short for ?
+Question for Rs. 160000
+1.World wide web   2.web world wide
+3.Wonder wide web   4.World wide well
+Enter Your Answer 1-4: 4
+The money you are taking home is 1000!
+
+11. Which keyboard key is used to refresh ?
+Question for Rs. 320000
+1.Ctrl   2.R
+3.Esc   4.F5
+Enter Your Answer 1-4: 1
+The money you are taking home is 1000!
+
+12. Which device connects to wifi ?
+Question for Rs. 1250000
+1.CPU   2.Router
+3.printer   4.DVD
+Enter Your Answer 1-4: 3
+The money you are taking home is 1000!
+
+13. What is 'Google' knkown as ?
+Question for Rs. 2500000
+1.Search engine   2.Social media
+3.Operating system   4.Chatbox
+Enter Your Answer 1-4: 2
+The money you are taking home is 1000!
+
+14. Which is a file type for images ?
+Question for Rs. 5000000
+1.PDF   2.TXT
+3.JPG   4.MP4
+Enter Your Answer 1-4: 3
+Correct Answer! You won Rs. 5000000
+
+15. What is 'CTRL + X' is used for ?
+Question for Rs. 7500000
+1.Copy   2.Cut
+3.Paste   4.Undo
+Enter Your Answer 1-4: 2
+Correct Answer! You won Rs. 7500000
+
+16. What is youtube used for ?
+Question for Rs. 10000000
+1.VIdeo Sharing   2.Search engine
+3.Code Editor   4.Vide Editor
+Enter Your Answer 1-4: 4
+The money you are taking home is 7500000!
